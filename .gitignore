@@ -6,7 +6,7 @@ data/**/*
 /project/
 /cache/
 /workspace/
-
+/notebooks/
 /venv/
 
 __pycache__/
